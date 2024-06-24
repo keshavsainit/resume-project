@@ -1,0 +1,147 @@
+.head{
+    width: 500px;
+    margin-left: 200px;
+    height: 100vh;
+}
+
+.profile-name{
+   
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    height: 100px;
+    border: 1px solid rgb(48, 46, 46);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 2px;
+    
+
+}
+
+.profile-name h1{    
+         height: 100%;   
+         width: 300px;      
+}
+
+.profile-name p{
+    width: 300px;
+    height: 100%;
+}
+
+.profile-detail{
+    width: 250px;
+    color: white;
+    
+}
+
+.contact-detail{
+    width: 250px;
+    color: white;
+}
+
+
+.detailp{
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
+
+.detailc{
+    display: flex;
+    width: 290px;
+    padding-top: 0px;
+    flex-direction: column;
+    margin-left: 20px;
+    gap: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(190, 186, 180);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 30px;
+}
+
+.detailc i{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.detailc :nth-child(1) {
+    color: #1818e9;
+}
+
+.detailc :nth-child(4) {
+    color: #1717eb;
+}
+
+.exp{
+    width: 250px;
+
+}
+
+.skills{
+   width: 250px;
+}
+
+
+.detail-exp{
+    display: flex;
+}
+
+.exp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+   
+   
+}
+
+.exp p{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.skills2{
+    margin-left: 40px;
+    width: 290px;
+    padding: 20px;
+    list-style-type: circle;
+    font-weight: bolder;
+    color: #1717eb;
+    background-color: rgb(167, 163, 163);
+  
+}
+
+.job-name{
+    border-top: 1px solid rgb(7, 52, 250);
+    padding-top: 10px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+   border-right: 10px;
+}
+
+.Education{
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+   
+    
+}
+
+.Education h1{
+    height: 6vh;
+    background-color: rgb(65, 61, 61);
+    color: white;
+    font-weight: bolder;
+    width: 250px;
+    text-align: center;
+}
+.list1{
+    margin-top: 10px;
+    gap: 10px;
+    
+}
